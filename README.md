@@ -1,6 +1,7 @@
 # Predicting-Bike-Sharing-Patterns
 
-## Hint: This project was realized as part of the Udacity Nanodegree program "Deep Learning".
+### Hint: 
+This project was realized as part of the Udacity Nanodegree program "Deep Learning".
 
 ### Introduction
 The aim of this project was to build a neural network from scratch to carry out a prediction problem on a real dataset. By building a neural network from the ground up, you'll have a much better understanding of gradient descent, backpropagation, and other concepts that are important to
